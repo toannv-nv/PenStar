@@ -18,7 +18,7 @@ export const dataHotel = [
             "email": "eliteTravel@gmail.com"
         },
         "_id": "68aec13514a33298231837a8",
-        "hotelName": "Novotel Ha Long Bay Hotel",
+        "hotelName": "PenStar Ha Long Bay",
         "description": "Bạn có thể đủ điều kiện hưởng giảm giá Genius tại The Watson Premium HaLong Hotel. Để biết giảm giá Genius có áp dụng cho ngày bạn đã chọn hay không, hãy đăng nhập. Giảm giá Genius tại chỗ nghỉ này tùy thuộc vào ngày đặt phòng, ngày lưu trú và các ưu đãi có sẵn khác. Tận hưởng dịch vụ đỉnh cao, đẳng cấp thế giới tại The Watson Premium HaLong Hotel The Watson Premium HaLong Hotel có hồ bơi ngoài trời, trung tâm thể dục, khu vườn và phòng chờ chung ở Hạ Long. Khách sạn 5 sao này cung cấp câu lạc bộ trẻ em, dịch vụ phòng và Wi-Fi miễn phí. Chỗ nghỉ này cung cấp quầy lễ tân 24 giờ, máy ATM và dịch vụ thu đổi ngoại tệ cho khách. Tất cả các căn tại khách sạn được trang bị điều hòa, khu vực ghế ngồi, TV màn hình phẳng có truyền hình cáp, két an toàn, phòng tắm riêng, vòi sen, đồ vệ sinh cá nhân miễn phí và máy sấy tóc. Tất cả các phòng đều có ấm đun nước, trong đó một số phòng có sân hiên và một số khác thì nhìn ra thành phố. Phòng khách đều có tủ lạnh. The Watson Premium HaLong Hotel có p",
         "location": {
             "_id": "68a446db96429706346a1a85",
@@ -106,7 +106,7 @@ export const dataHotel = [
             "email": "huyquoc2xx4@gmail.com"
         },
         "_id": "68ac972b1c2f309f07af9bd1",
-        "hotelName": "Grand Sunrise Palace Hoi An- A Luxury Indochine Hotel & Spa",
+        "hotelName": "PenStar Hoi An",
         "description": "Bạn có thể đủ điều kiện hưởng giảm giá Genius tại Grand Sunrise Palace Hoi An- A Luxury Indochine Hotel & Spa. Để biết giảm giá Genius có áp dụng cho ngày bạn đã chọn hay không, hãy đăng nhập.\n\nGiảm giá Genius tại chỗ nghỉ này tùy thuộc vào ngày đặt phòng, ngày lưu trú và các ưu đãi có sẵn khác.\n\nTận hưởng dịch vụ đỉnh cao, đẳng cấp thế giới tại Grand Sunrise Palace Hoi An- A Luxury Indochine Hotel & Spa\nTọa lạc ở Hội An, cách Hội Quán Chi Hội Triều Châu Trung Quốc 2.2 km, Grand Sunrise Palace H",
         "location": {
             "_id": "674a0123456789abcdef0004",
@@ -205,7 +205,7 @@ export const dataHotel = [
             "email": "huyquoc2xx4@gmail.com"
         },
         "_id": "68ac96751c2f309f07af9b3b",
-        "hotelName": "Hanoi Center Silk Classic Hotel & Travel",
+        "hotelName": "PenStar Hanoi",
         "description": "Bạn có thể đủ điều kiện hưởng giảm giá Genius tại Hanoi Center Silk Classic Hotel & Travel. Để biết giảm giá Genius có áp dụng cho ngày bạn đã chọn hay không, hãy đăng nhập.\n\nGiảm giá Genius tại chỗ nghỉ này tùy thuộc vào ngày đặt phòng, ngày lưu trú và các ưu đãi có sẵn khác.\n\nNằm tại vị trí thuận tiện ở trung tâm Hà Nội, Hanoi Center Silk Classic Hotel & Travel cung cấp các phòng điều hòa với Wi-Fi miễn phí, chỗ đậu xe riêng miễn phí và dịch vụ phòng. Ngoài khu vườn, chỗ nghỉ còn có phòng ch",
         "location": {
             "_id": "674a0123456789abcdef0001",
@@ -291,11 +291,11 @@ export const dataHotel = [
             "email": "huyquoc2xx4@gmail.com"
         },
         "_id": "68ac95d51c2f309f07af9aa9",
-        "hotelName": "Peridot Gallery Classic Hotel",
+        "hotelName": "PenStar Da Nang",
         "description": "Bạn có thể đủ điều kiện hưởng giảm giá Genius tại Peridot Gallery Classic Hotel. Để biết giảm giá Genius có áp dụng cho ngày bạn đã chọn hay không, hãy đăng nhập.\n\nGiảm giá Genius tại chỗ nghỉ này tùy thuộc vào ngày đặt phòng, ngày lưu trú và các ưu đãi có sẵn khác.\n\nFeaturing free WiFi, Peridot Gallery Classic Hotel offers accommodation in Hanoi, 500 metres from Dong Xuan Market. Guests can enjoy the on-site bar.\n\nSome units have a private bathroom with a hot tub, while others have bath robes a",
         "location": {
             "_id": "674a0123456789abcdef0001",
-            "locationName": "Hà Nội",
+            "locationName": "Đà Nẵng",
             "country": "Việt Nam"
         },
         "address": "52 Bat Su, Hang Bo Ward, Hoan Kiem District, Quận Hoàn Kiếm, Hà Nội, Việt Nam Vị trí xuất sắc - được cho điểm 9.8/10!(điểm từ 1056 đánh giá) Được khách đánh giá sau khi họ nghỉ tại Peridot Gallery Classic Hotel.",
@@ -390,11 +390,11 @@ export const dataHotel = [
             "email": "huyquoc2xx4@gmail.com"
         },
         "_id": "68ac94ff1c2f309f07af99bc",
-        "hotelName": "MAY DE VILLE Lakeside Hotel",
+        "hotelName": "PenStar Ho Chi Minh City",
         "description": "Bạn có thể đủ điều kiện hưởng giảm giá Genius tại MAY DE VILLE Lakeside Hotel. Để biết giảm giá Genius có áp dụng cho ngày bạn đã chọn hay không, hãy đăng nhập.\n\nGiảm giá Genius tại chỗ nghỉ này tùy thuộc vào ngày đặt phòng, ngày lưu trú và các ưu đãi có sẵn khác.\n\nNằm cách Hồ Hoàn Kiếm chỉ 2 phút tản bộ, MAY DE VILLE Lakeside Hotel cung cấp phòng nghỉ hiện đại nhưng ấm cúng với WiFi miễn phí. Nhìn ra Khu Phố Cổ, khách sạn này có quầy bar và nhà hàng trong khuôn viên.\n\nMỗi phòng nghỉ tại đây đ",
         "location": {
             "_id": "674a0123456789abcdef0001",
-            "locationName": "Hà Nội",
+            "locationName": "Hồ Chí Minh",
             "country": "Việt Nam"
         },
         "address": "43 Gia Ngu Street, Quận Hoàn Kiếm, Hà Nội, Việt Nam Vị trí xuất sắc - được cho điểm 9.8/10!(điểm từ 3589 đánh giá) Được khách đánh giá sau khi họ nghỉ tại MAY DE VILLE Lakeside Hotel.",
@@ -487,7 +487,7 @@ export const dataHotel = [
             "email": "huyquoc2xx4@gmail.com"
         },
         "_id": "68ac947a1c2f309f07af997b",
-        "hotelName": "MAY DE VILLE Crown Hotel",
+        "hotelName": "PenStar Hanoi Crown",
         "description": "Bạn có thể đủ điều kiện hưởng giảm giá Genius tại MAY DE VILLE Crown Hotel. Để biết giảm giá Genius có áp dụng cho ngày bạn đã chọn hay không, hãy đăng nhập.\n\nGiảm giá Genius tại chỗ nghỉ này tùy thuộc vào ngày đặt phòng, ngày lưu trú và các ưu đãi có sẵn khác.\n\nMAY DE VILLE Crown Hotel có hồ bơi ngoài trời, trung tâm thể dục, khu vườn và sân hiên ở Hà Nội. Khách sạn 5 sao này cung cấp quầy bar. Chỗ nghỉ cung cấp lễ tân 24/24, dịch vụ đưa đón sân bay, dịch vụ phòng và Wi-Fi miễn phí ở toàn b",
         "location": {
             "_id": "674a0123456789abcdef0001",
@@ -585,7 +585,7 @@ export const dataHotel = [
             "email": "huyquoc2xx4@gmail.com"
         },
         "_id": "68ac92a11c2f309f07af98a9",
-        "hotelName": "Peony Cruises",
+        "hotelName": "PenStar Halong Bay",
         "description": "Bạn có thể đủ điều kiện hưởng giảm giá Genius tại Peony Cruises. Để biết giảm giá Genius có áp dụng cho ngày bạn đã chọn hay không, hãy đăng nhập.\n\nGiảm giá Genius tại chỗ nghỉ này tùy thuộc vào ngày đặt phòng, ngày lưu trú và các ưu đãi có sẵn khác.\n\nTrải nghiệm dịch vụ đẳng cấp thế giới ở Peony Cruises\nKhởi hành từ Bến thuyền Tuần Châu, Peony Cruises thiết kế các hành trình nhiều hoạt động trong khi du ngoạn dọc theo Vịnh Hạ Long - Lan Hạ. Du khách có thể tận hưởng kỳ nghỉ của mình trong các c",
         "location": {
             "_id": "68a446db96429706346a1a85",

@@ -60,7 +60,7 @@ const HotelPromotion = () => {
             <div className="container mx-auto px-4">
                 <div className="text-center mb-12">
                     <h2 className="text-4xl font-extrabold text-blue-600 mb-3">
-                        Khách Sạn Nổi Bật
+                        Phòng Nổi Bật
                     </h2>
                     <p className="text-blue-400 max-w-2xl mx-auto text-lg">
                         Khám phá những khách sạn chất lượng cao với dịch vụ tuyệt vời và vị trí thuận lợi
